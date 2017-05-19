@@ -16,7 +16,7 @@ public class Stage3_1_GameController : MonoBehaviour {
 	public GameObject[] aaaaaa;
 
 	void Awake(){
-		
+		//ddddd
 		//개발 후 삭제//
 		if (Stage3_Controller._stage3_q1) {
 			Destroy (aaaaaa[0]);
